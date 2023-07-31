@@ -13,12 +13,6 @@ Here are some ideas to get you started: -->
 | [Replace AWSBraketJob to AmazonBraketTask](https://github.com/qiskit-community/qiskit-braket-provider/issues/45) |  [#105](https://github.com/qiskit-community/qiskit-braket-provider/pull/105)   |**Merged**   |
 | [Eliminate warnings from test run](https://github.com/CQCL/pytket-qiskit/issues/19) |  [#137](https://github.com/CQCL/pytket-qiskit/pull/137)   |Open (Draft)  |
 
-<p font-size=7>
-<ui>
-<li> I’m currently learning Common Lisp and QFT/QED </li> 
-<li> I’m looking to collaborate on ML and computational physics projects</li> 
-<li> How to reach me: robotastray@proton.me </li> 
-</ui></p>
 
 
 
