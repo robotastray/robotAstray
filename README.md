@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 | [Replace requirements txt files and setup.py with pyproject.toml](https://github.com/qiskit-community/quantum-prototype-template/issues/61) | [#70](https://github.com/qiskit-community/quantum-prototype-template/pull/70)   | **Merged** |
 | [Replace AWSBraketJob to AmazonBraketTask](https://github.com/qiskit-community/qiskit-braket-provider/issues/45) |  [#105](https://github.com/qiskit-community/qiskit-braket-provider/pull/105)   |**Merged**   |
 | [Eliminate warnings from test run](https://github.com/CQCL/pytket-qiskit/issues/19) |  [#137](https://github.com/CQCL/pytket-qiskit/pull/137)   |Open |
-| [Support Qiskit move to Primitives and away from QuantumInstances](https://github.com/qiskit-community/qiskit-braket-provider/issues/83) |  [#115](https://github.com/qiskit-community/qiskit-braket-provider/pull/115)   |Open (Draft)  |
+| [Support Qiskit move to Primitives and away from QuantumInstances](https://github.com/qiskit-community/qiskit-braket-provider/issues/83) |  [#115](https://github.com/qiskit-community/qiskit-braket-provider/pull/115)   |Open  |
 
 
 
