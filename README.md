@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 
 | Issue | Pull Request    | Status   |
-| :---:   | :---: | :---: |
+| ---   | :---: | :---: |
 | [Migrate tutorials from qiskit-tutorials (Preserving Git Histories) (Part 1)](https://github.com/qiskit-community/qiskit-algorithms/issues/14) |  [#39](https://github.com/qiskit-community/qiskit-algorithms/pull/39)   |Open (Draft)  |
 | [Migrate tutorials from qiskit-tutorials (Part 2)](https://github.com/qiskit-community/qiskit-algorithms/issues/14) |  [#38](https://github.com/qiskit-community/qiskit-algorithms/pull/38)   |Open (Draft)  |
 | [Change usages of index(t) to a more robust isclose()](https://github.com/qiskit-community/lindbladmpo/issues/11) |  [#23](https://github.com/qiskit-community/lindbladmpo/pull/23)   |Open  |
