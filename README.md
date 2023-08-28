@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 
 | Issue | PR   |  Language |Status   |
 | ---   | :---: | :---: | :---: |
+| [Investigate/fix `test_cancel_running_job()`](https://github.com/Qiskit/qiskit-ibm-runtime/issues/1019)|[#1022](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1022)| Python | **Merged**|
 | [Update python tests to match the support versions of the Braket SDK](https://github.com/qiskit-community/qiskit-braket-provider/issues/119)|[#120](https://github.com/qiskit-community/qiskit-braket-provider/pull/120)| YAML | **Merged**|
 | [Python versions: move from python 3.7 and add support for 3.11](https://github.com/qiskit-community/qiskit-braket-provider/issues/117)|[#120](https://github.com/qiskit-community/qiskit-braket-provider/pull/120)|  YAML | **Merged**|
 | [Add separate QUEUED and RUNNING states to task status](https://github.com/qiskit-community/qiskit-braket-provider/issues/46) | [#110](https://github.com/qiskit-community/qiskit-braket-provider/pull/110)  | Python | **Merged**|
