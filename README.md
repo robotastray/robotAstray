@@ -10,8 +10,8 @@ Here are some ideas to get you started: -->
 
 | Issue | PR   |  Language |Status   |
 | ---   | :---: | :---: | :---: |
-| [Upgrade to QiskitAerSimulator](https://github.com/qiskit-community/qiskit-qec/issues/367) |  [#378](https://github.com/qiskit-community/qiskit-qec/pull/378)   | Python | Open  |
-| [Remove/Replace execute import with backend.run in Repetition Code](https://github.com/qiskit-community/lindbladmpo/issues/247) |  [#23](https://github.com/qiskit-community/qiskit-qec/pull/381)   | Python | Open  |
+| [Upgrade to QiskitAerSimulator](https://github.com/qiskit-community/qiskit-qec/issues/367) |  [#378](https://github.com/qiskit-community/qiskit-qec/pull/378)   | Python | **Merged**  |
+| [Remove/Replace execute import with backend.run in Repetition Code](https://github.com/qiskit-community/lindbladmpo/issues/247) |  [#23](https://github.com/qiskit-community/qiskit-qec/pull/381)   | Python | **Merged**  |
 | [Investigate/fix `test_cancel_running_job()`](https://github.com/Qiskit/qiskit-ibm-runtime/issues/1019)|[#1022](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1022)| Python | **Merged**|
 | [Update python tests to match the support versions of the Braket SDK](https://github.com/qiskit-community/qiskit-braket-provider/issues/119)|[#120](https://github.com/qiskit-community/qiskit-braket-provider/pull/120)| YAML | **Merged**|
 |[Remove `numpy.alltrue` from the tests](https://github.com/qiskit-community/qiskit-cold-atom/issues/75)|[#76](https://github.com/qiskit-community/qiskit-cold-atom/pull/76)|Python/YAML| **Merged**|
