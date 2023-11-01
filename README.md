@@ -20,9 +20,9 @@ Here are some ideas to get you started: -->
 | [Python versions: move from python 3.7 and add support for 3.11](https://github.com/qiskit-community/qiskit-braket-provider/issues/117)|[#120](https://github.com/qiskit-community/qiskit-braket-provider/pull/120)|  YAML | **Merged**|
 | [Add separate QUEUED and RUNNING states to task status](https://github.com/qiskit-community/qiskit-braket-provider/issues/46) | [#110](https://github.com/qiskit-community/qiskit-braket-provider/pull/110)  | Python | **Merged**|
 | [Replace AWSBraketJob to AmazonBraketTask](https://github.com/qiskit-community/qiskit-braket-provider/issues/45) |  [#105](https://github.com/qiskit-community/qiskit-braket-provider/pull/105)   | Python | **Merged**|
-<!--| [Eliminate warnings from test run](https://github.com/CQCL/pytket-qiskit/issues/19) |  [#137](https://github.com/CQCL/pytket-qiskit/pull/137)   |Open |
+| [Eliminate warnings from test run](https://github.com/CQCL/pytket-qiskit/issues/19) |  [#137](https://github.com/CQCL/pytket-qiskit/pull/137)   |Python | **Merged**|
 
-| [Change usages of index(t) to a more robust isclose()](https://github.com/qiskit-community/lindbladmpo/issues/11) |  [#23](https://github.com/qiskit-community/lindbladmpo/pull/23)   |Open  | -->
+<!--| [Change usages of index(t) to a more robust isclose()](https://github.com/qiskit-community/lindbladmpo/issues/11) |  [#23](https://github.com/qiskit-community/lindbladmpo/pull/23)   |Open  | -->
 
 
 #### _ML & Deep Learning_
