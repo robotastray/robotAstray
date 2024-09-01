@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 
 | Issue | PR   |  Language |Status   |
 | ---   | :---: | :---: | :---: |
+| [Error: Deprecated DisqusShortname Prevents Site from Building in Whiteplain Hugo Theme](https://github.com/taikii/whiteplain/issues/35) |  [#34](https://github.com/taikii/whiteplain/pull/34)   | JavaScript | **Merged**  |
 | [Upgrade to QiskitAerSimulator](https://github.com/qiskit-community/qiskit-qec/issues/367) |  [#378](https://github.com/qiskit-community/qiskit-qec/pull/378)   | Python | **Merged**  |
 | [Remove/Replace execute import with backend.run in Repetition Code](https://github.com/qiskit-community/lindbladmpo/issues/247) |  [#23](https://github.com/qiskit-community/qiskit-qec/pull/381)   | Python | **Merged**  |
 | [Investigate/fix `test_cancel_running_job()`](https://github.com/Qiskit/qiskit-ibm-runtime/issues/1019)|[#1022](https://github.com/Qiskit/qiskit-ibm-runtime/pull/1022)| Python | **Merged**|
