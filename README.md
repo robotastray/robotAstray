@@ -1,6 +1,6 @@
 ### OSS Contributions
 
-#### _Open Quantum Software Ecosystem_
+#### _Open Quantum Software Ecosystem_ et al.
 
 <!--
 **robotAstray/robotAstray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
