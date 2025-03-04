@@ -27,9 +27,10 @@ Here are some ideas to get you started: -->
 
 #### _ML & Deep Learning Projects_
 
-| Issue | Repo   |  Language |Competition|
+| Issue | Repo   |  Language/Tech |Competition|
 | ---   | :---: | :---: | :---: |
-|_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| [1st Place - HackCambridge Machine Learning Competition]
+|_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 1st Place - HackCambridge Machine Learning Competition |
+| _Empath.ly_|[Repo](https://github.com/robotastray/Harvard-University-Programming-Contest)|Python,JS,AssemblyAI| 1st Place Overall - HackHarvard CTRL+ALT+CREATE|
 
 #### _Others_
 
