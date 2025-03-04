@@ -27,12 +27,12 @@ Here are some ideas to get you started: -->
 
 #### _ML & Computer Vision Projects_
 
-| Issue | Repo/Demo   |  Language/Tech |Competition|
-| ---   | :---: | :---: | :---: |
-|_FinCast: Financial forecasting using Machine Learning_|[Demo](https://devpost.com/software/fincast)|ARIMA, LSTMN, Python, Streamlit|Best Financial Hack - Hacklytics|
-|_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 1st Place - HackCambridge Machine Learning Competition |
-| _Empath.ly_|[Repo](https://github.com/robotastray/Harvard-University-Programming-Contest)|Python,JS,AssemblyAI| 1st Place Overall - HackHarvard CTRL+ALT+CREATE|
-|_AugmentEd: Virtual Simulation of Science Experiments_|[Repo](https://github.com/robotastray/AugmentEd) / [Demo](https://www.youtube.com/watch?v=hXH4LOHEFIQ&t=1s)|Python/OpenCV/TensorFlow/Keras| Best Hardware & Best Education Hack-RU Competition|
+| Issue | Repo/Demo   |  Language/Tech |
+| ---   | :---: | :---: |
+|_FinCast: Financial forecasting using Machine Learning_|[Demo](https://devpost.com/software/fincast)|ARIMA, LSTMN, Python, Streamlit|
+|_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 
+| _Empath.ly_ (1st Place Overall at HackHarvard CTRL+ALT+CREATE)|[Repo](https://github.com/robotastray/Harvard-University-Programming-Contest)|Python,JS,AssemblyAI| 
+|_AugmentEd: Virtual Simulation of Science Experiments_|[Repo](https://github.com/robotastray/AugmentEd) / [Demo](https://www.youtube.com/watch?v=hXH4LOHEFIQ&t=1s)|Python/OpenCV/TensorFlow/Keras|
 
 #### _Others_
 
