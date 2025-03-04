@@ -25,7 +25,9 @@ Here are some ideas to get you started: -->
 | [Change usages of index(t) to a more robust isclose()](https://github.com/qiskit-community/lindbladmpo/issues/11) |  [#23](https://github.com/qiskit-community/lindbladmpo/pull/23)   |Open  | -->
 
 
-#### _ML & Deep Learning_
+#### _ML & Deep Learning Projects_
+
+_Image Classification Using ResNet50 and CIFAR-10 Dataset_, HackCambridge Machine Learning Competition [Repo](https://github.com/robotastray/ImageClassificationUsingResNet50)
 
 #### _Others_
 
