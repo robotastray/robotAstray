@@ -36,11 +36,12 @@ Here are some ideas to get you started: -->
 | _Empath.ly_ (1st Place Overall at HackHarvard CTRL+ALT+CREATE)|[Repo](https://github.com/robotastray/Harvard-University-Programming-Contest)|Python,JS,AssemblyAI| 
 |_AugmentEd: Virtual Simulations of Science Experiments_|[Repo](https://github.com/robotastray/AugmentEd) / [Demo](https://www.youtube.com/watch?v=hXH4LOHEFIQ&t=1s)|Python/OpenCV/TensorFlow/Keras|
 
-#### _Others_
+#### _Bugs Identified_
 
 
 | Issue | PR   |  Language |Status   |
 | ---   | :---: | :---: | :---: |
+| [Bug: Deprecated NumPy 'tostring' method is called in the codebase ](https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/286) |  [#288](https://github.com/amazon-braket/amazon-braket-default-simulator-python/pull/288)   | Python | **Completed**  |
 | [Error: Deprecated DisqusShortname Prevents Site from Building in Whiteplain Hugo Theme](https://github.com/taikii/whiteplain/issues/35) |  [#34](https://github.com/taikii/whiteplain/pull/34)   | JavaScript | **Merged**  |
 
 
