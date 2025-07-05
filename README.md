@@ -33,7 +33,6 @@ Here are some ideas to get you started: -->
 | ---   | :---: | :---: |
 |_FinCast: Financial forecasting using Machine Learning_|[Demo](https://devpost.com/software/fincast)|ARIMA, LSTMN, Python, Streamlit|
 |_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 
-| _Empath.ly_ (1st Place Overall at HackHarvard CTRL+ALT+CREATE)|[Repo](https://github.com/robotastray/Harvard-University-Programming-Contest)|Python,JS,AssemblyAI| 
 |_AugmentEd: Virtual Simulations of Science Experiments_|[Repo](https://github.com/robotastray/AugmentEd) / [Demo](https://www.youtube.com/watch?v=hXH4LOHEFIQ&t=1s)|Python/OpenCV/TensorFlow/Keras|
 
 #### _Bugs Identified_
