@@ -27,6 +27,15 @@ Here are some ideas to get you started: -->
 
 | [Change usages of index(t) to a more robust isclose()](https://github.com/qiskit-community/lindbladmpo/issues/11) |  [#23](https://github.com/qiskit-community/lindbladmpo/pull/23)   |Open  | -->
 
+#### _Bugs/Issues Identified_
+
+
+| Issue | PR   |  Language |Status   |
+| ---   | :---: | :---: | :---: |
+| [Bug: Deprecated NumPy 'tostring' method is called in the codebase ](https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/286) |  [#288](https://github.com/amazon-braket/amazon-braket-default-simulator-python/pull/288)   | Python | **Completed**  |
+| [Error: Deprecated DisqusShortname Prevents Site from Building in Whiteplain Hugo Theme](https://github.com/taikii/whiteplain/issues/35) |  [#34](https://github.com/taikii/whiteplain/pull/34)   | JavaScript | **Merged**  |
+
+
 #### _ML & Computer Vision Projects_
 
 | Issue | Repo/Demo   |  Language/Tech |
@@ -35,13 +44,6 @@ Here are some ideas to get you started: -->
 |_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 
 |_AugmentEd: Virtual Simulations of Science Experiments_|[Repo](https://github.com/robotastray/AugmentEd) / [Demo](https://www.youtube.com/watch?v=hXH4LOHEFIQ&t=1s)|Python/OpenCV/TensorFlow/Keras|
 
-#### _Bugs Identified_
-
-
-| Issue | PR   |  Language |Status   |
-| ---   | :---: | :---: | :---: |
-| [Bug: Deprecated NumPy 'tostring' method is called in the codebase ](https://github.com/amazon-braket/amazon-braket-default-simulator-python/issues/286) |  [#288](https://github.com/amazon-braket/amazon-braket-default-simulator-python/pull/288)   | Python | **Completed**  |
-| [Error: Deprecated DisqusShortname Prevents Site from Building in Whiteplain Hugo Theme](https://github.com/taikii/whiteplain/issues/35) |  [#34](https://github.com/taikii/whiteplain/pull/34)   | JavaScript | **Merged**  |
 
 
 
