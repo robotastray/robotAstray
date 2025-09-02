@@ -1,7 +1,8 @@
 ### Ongoing Projects:
-
-- *A Hybrid, Multi-Sensor Tracking System for Triple Jump Performance Analysis*
-- *JumpLens: Real-Time Dynamic Graphs, Overlays & Coach Data Analysis Toolset*
+| Project  |  Language/Tech |
+| ---   | :---: | 
+| *A Hybrid, Multi-Sensor Tracking System for Triple Jump Performance Analysis* |Python / Arduino Nano 33 BLE Sense Rev2|
+| *JumpLens: Real-Time Dynamic Graphs, Overlays & Coach Data Analysis Toolset* | Python / ML & Computer Vision|
 
 
 
@@ -45,7 +46,7 @@ Here are some ideas to get you started: -->
 
 #### _ML & Computer Vision Projects_
 
-| Issue | Repo/Demo   |  Language/Tech |
+| Project | Repo/Demo   |  Language/Tech |
 | ---   | :---: | :---: |
 |_FinCast: Financial forecasting using Machine Learning_|[Demo](https://devpost.com/software/fincast)|ARIMA, LSTMN, Python, Streamlit|
 |_Image Classification Using ResNet50 and CIFAR-10 Dataset_ |[Repo](https://github.com/robotastray/ImageClassificationUsingResNet50) |Python| 
