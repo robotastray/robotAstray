@@ -1,3 +1,10 @@
+### Ongoing Projects:
+
+- *A Hybrid, Multi-Sensor Tracking System for Triple Jump Performance Analysis*
+- *JumpLens: Real-Time Dynamic Graphs Overlay & Coach Data Analysis Toolset*
+
+
+
 ### OSS Contributions
 
 
