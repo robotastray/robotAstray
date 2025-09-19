@@ -1,8 +1,8 @@
-### Ongoing Projects:
+<!-- ### Ongoing Projects:
 | Project  |  Language/Tech |
 | ---   | :---: | 
 | *A Hybrid, Multi-Sensor Tracking System for Triple Jump Performance Analysis* |Python / Arduino Nano 33 BLE Sense Rev2|
-| *JumpLens: Real-Time Dynamic Graphs, Overlays & Coach Data Analysis Toolset* | Python / ML & Computer Vision|
+| *JumpLens: Real-Time Dynamic Graphs, Overlays & Coach Data Analysis Toolset* | Python / ML & Computer Vision|-->
 
 
 
